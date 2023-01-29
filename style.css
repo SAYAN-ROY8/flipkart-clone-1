@@ -1,0 +1,11 @@
+
+.rel{
+    position: relative;
+    background-color: aqua;
+    
+    height: 50vh;
+    width: 50vw;
+    justify-content: center;
+    text-align: center;
+    padding-top: 90px;
+}
